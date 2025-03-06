@@ -1,4 +1,4 @@
-# gitlabruter v.1.0
+# GitlaBruter v.1.0
 Checker for Gitlab public projects and verify active users
 
 1. Make 2 files: projects.txt
